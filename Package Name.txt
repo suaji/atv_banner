@@ -4,19 +4,23 @@
 	--------------------------------------------
 
 <========================================================================>
- Title		APP				Package
+ Title				APP				Package
 <========================================================================>
- Astro Go	Astrogo			com.astro.astro
+ Astro Go			Astrogo			com.astro.astro
  
- APKPure	APK Pure		com.apkpure.aegon
+ APKPure			APK Pure		com.apkpure.aegon
 
- Hypptv		HypptvTab		com.huawei.pad.tm
+ iflix				Iflix			
+ 
+ HBO-AndroidTV 		HBO GO
+ 
+ Hypptv				HypptvTab		com.huawei.pad.tm
+ Playtv				PlayTV			com.tm.playtv
+ Unifi TV           UnifiTV			com.tm.unifitw
 
- Playtv		PlayTV			com.tm.playtv
+ MNC Now			MNC Now			com.zte.iptvclient.android.idmnc
+ Vision+   			(MNC NOW)		com.zte.iptvclient.android.idmnc
 
- MNC Now	MNC Now			com.zte.iptvclient.android.idmnc
- Vision+   (MNC NOW)		com.zte.iptvclient.android.idmnc
+ Netflix			Netflix			com.netflix.mediaclient
 
- Netflix	Netflix			com.netflix.mediaclient
-
- Netflix	Netflix TV		com.netflix.ninja
+ Netflix			Netflix TV		com.netflix.ninja
